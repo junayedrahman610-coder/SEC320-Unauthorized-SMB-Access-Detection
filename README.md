@@ -66,6 +66,17 @@ Used Suricata and tcpdump to monitor network activity and review logs. A dedicat
 - Wireshark captured authentication traffic.
 - Suricata recorded network activity.
 
+## Skills Demonstrated
+
+- Network reconnaissance and service discovery using Nmap
+- SMB authentication testing in a controlled lab environment
+- Network packet capture and protocol analysis using Wireshark
+- Intrusion detection monitoring using Suricata
+- Investigation of network traffic and security logs
+- Virtual machine networking and troubleshooting
+- Cybersecurity documentation and evidence collection
+
+
 ## Conclusion
 This project helped me understand how unauthorized login attempts work and how network monitoring tools can help investigate suspicious activity. All testing was completed in an authorized virtual lab for educational purposes.
 
